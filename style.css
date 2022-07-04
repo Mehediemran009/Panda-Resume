@@ -1,0 +1,79 @@
+.gulu{
+    font-family: 'The Nautigal', cursive;   
+    font-size: 60px;
+
+
+}
+p{
+    text-align: justify;
+}
+.panda{
+    margin: 0px;
+    color: gray;
+}
+.huge {
+    text-decoration: none;
+    padding: 4px 20px;
+    background-image: linear-gradient(grey,rgb(235, 231, 231));
+    border-radius: 5px;
+    color:green;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
+section {
+    display: flex;
+}
+ .popo { 
+    width: 50%;
+    padding-left: 70px;
+ }
+ .popo img {
+    width: 60%;
+    padding-left: 150px;
+    padding-top: 30px;
+    
+ }
+.boder {
+    background-image: url(100pic.jpg);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-size: 70px;
+}
+
+.sec1 {    font-family: 'The Nautigal', cursive;   
+    font-size: 60px;
+}
+.sec2{
+    
+    color: rgb(194, 128, 166)
+}
+
+.sec4 {
+    text-decoration: none;
+    font-family: 'Blaka Hollow', cursive;
+    font-size: 30px;
+    background-image: linear-gradient(rgb(134, 219, 134),rgb(178, 214, 178), green);
+    color:rgb(255, 136, 0);
+    padding: 10px 40px;
+    border-radius: 7px;
+    
+}
+.sec8 {
+    display: flex;
+}
+.sec7 {
+    width: 45%;
+    padding-right: 50px;
+}
+.sec7 img{
+    padding-left: 100px;
+    width: 60%;
+}
+
+.sec8{
+    background-image: url(6th-pic.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: right;
+}
