@@ -21,7 +21,7 @@ p{
     font-size: 20px;
     font-family: 'Shadows Into Light', cursive;
 }
-section {
+.line {
     display: flex;
 }
  .popo { 
@@ -76,4 +76,52 @@ section {
     background-repeat: no-repeat;
     background-size: 50px;
     background-position: right;
+}
+
+.point {
+    display: flex;
+
+}
+.box{ width: 40%;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 70px;
+    box-shadow: 10px 10px 30px grey;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 7px;
+   
+}
+
+.circle{
+    padding-left: 20px;
+    font-size: 40px;
+}
+.a{
+    font-size: 30px;
+}
+.b{
+    font-size: 22px;
+    color:palevioletred
+}
+.lion{
+    border-left: solid crimson 6px;
+
+}
+.tiger{
+    border-right: solid 6px greenyellow;
+}
+.tip{ 
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+.side-pic{
+
+    background-image:url(border2.png);
+    background-repeat: no-repeat;
+
+    background-position-x: left;
+    background-size: 200px;
+
 }
